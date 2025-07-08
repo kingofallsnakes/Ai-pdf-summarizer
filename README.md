@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-🧠 Coming soon on [Vercel/Netlify] – or deploy it yourself using the guide below.
+[Ai-PDF-Summarizer](https://cobra-ai-pdf.vercel.app/)
 
 ---
 
